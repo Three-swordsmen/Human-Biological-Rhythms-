@@ -1,0 +1,29 @@
+﻿生成启动时间为 2020/3/5 23:45:29。
+     1>项目“D:\学习\c语言\git\人类生物节律\人类生物节律\人类生物节律.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“D:\学习\c语言\git\人类生物节律\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\人类生物节律.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\vc\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\Human-Biological-Rhythms\生物节律查询.cpp"
+         生物节律查询.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\人类生物节律.exe.embed.manifest.res" "Debug\人类生物节律_manifest.rc" 
+       Link:
+         E:\vc\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\学习\c语言\git\人类生物节律\Debug\人类生物节律.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\人类生物节律.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\学习\c语言\git\人类生物节律\Debug\人类生物节律.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\学习\c语言\git\人类生物节律\Debug\人类生物节律.lib" /MACHINE:X86 "Debug\人类生物节律.exe.embed.manifest.res"
+         "Debug\生物节律查询.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\人类生物节律.exe.embed.manifest" /manifest "Debug\人类生物节律.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\人类生物节律.exe.embed.manifest.res" "Debug\人类生物节律_manifest.rc" 
+       LinkEmbedManifest:
+         E:\vc\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\学习\c语言\git\人类生物节律\Debug\人类生物节律.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\人类生物节律.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\学习\c语言\git\人类生物节律\Debug\人类生物节律.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\学习\c语言\git\人类生物节律\Debug\人类生物节律.lib" /MACHINE:X86 "Debug\人类生物节律.exe.embed.manifest.res"
+         "Debug\生物节律查询.obj"
+         人类生物节律.vcxproj -> D:\学习\c语言\git\人类生物节律\Debug\人类生物节律.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\人类生物节律.unsuccessfulbuild”。
+         正在对“Debug\人类生物节律.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\学习\c语言\git\人类生物节律\人类生物节律\人类生物节律.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.17
